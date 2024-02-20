@@ -1,0 +1,89 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Deepak Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/caaring-poster.png",
+            "title": "E-COMMERCE",
+            "bodyText": "- Developed the E-commerce webiste for,shopping app and adding the functionality for successfuly commercialisation of technology/product.\n - Developed using ReactJS ExpressJS, MongoDB , Node JS, Tailwind CSS, Socket io and Redux Toolkit for      smooth performance.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/deepakbind/ecco"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://ecco-dsdv.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "ExpressJS",
+                "NodeJS",
+                "MongoDB",
+                "Tailwind CSS",
+                "Socket io",
+                "Redux Toolkit"
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.png",
+            "title": "Youtube-Clone",
+            "bodyText": "- We will use core concepts of react js such as jsx, components, props state,react-router and hooks, lifecycle of components, conditional rendering, lists, keys context api.\n - • Fetching data from Rapid API.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/deepakbind/youtube_lite"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://sdbind-youtube-clone.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "Tailwind CSS",
+                "Context API",
+                "Rapid API"
+            ]
+        },
+        {
+            "title": "Web Pages",
+            "bodyText": "- Some Web pages design that are resposive pages for every devices.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://codepen.io/Deepak-Kumar-Bind"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstrap"
+            ]
+        }
+    ]
+}

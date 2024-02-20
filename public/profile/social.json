@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/deepakbind/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/deepakbind"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:deepakbind9695@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        {
+            "title": "MJPRU IT-Clinic ",
+            "subtitle": "Technical Team Member",
+            "workType": "Full-time",
+            "workDescription": [
+                "IT-CLINIC aims for providing software, hardware, networking and other IT-related solutions",
+                "To provide software support maintenance, To provide networking solutions.",
+                "To provide hardware troubleshooting."
+            ],
+            "dateText": "04/2023 – Present"
+        },
+        {
+            "title": "Website Developed",
+            "subtitle": "RIF",
+            "workType": "RIFMJPRU",
+            "workDescription": [
+                "RIFMJPRU is the official website of Rohilkhand Incubation Foundation,Developed in HTML,CSS,JavaScript,PHP.",
+                " RIF is focussed to provide faster growth to new ventures, incubatees for successful commercialisation of technology/product through a combination of Accelerator Program, Alumni Connect, Corporate Market Access."
+            ],
+            "dateText": "04/2023 – 05/2023"
+        },
+        {
+            "title": "Web Development",
+            "subtitle": "Bharat Intern",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed the Web pages.",
+                "Done all work."
+            ],
+            "dateText": "08/2023 – 09/2023"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Nov 2020 - June 2024",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"MJP Rohilkhand University, Bareilly",
+            "cardDetailedText": "CGPA - 7.4",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "May 2019",
+            "cardTitle": "Intermediate School",
+            "cardSubtitle":"INDRAWATI BIND I C N S SRN, Bhadohi",
+            "cardDetailedText": "Marks - 70%"
+        },
+        {
+            "title": "Apr 2017",
+            "cardTitle": "High School",
+            "cardSubtitle":"INDRAWATI BIND I C N S SRN, City",
+            "cardDetailedText": "Marks - 82.33%"
+        }
+    ]
+}
