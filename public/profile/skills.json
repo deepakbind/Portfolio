@@ -41,6 +41,10 @@
                     "title": "CSS"
                 },
                 {
+                    "icon": "images/skills/js.png",
+                    "title": "JS"
+                },
+                {
                     "icon": "images/skills/boot.png",
                     "title": "Bootstrap"
                 }
